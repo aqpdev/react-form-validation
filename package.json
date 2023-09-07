@@ -1,6 +1,6 @@
 {
   "name": "@aqpdev/react-form-validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook to validate forms inspired in CodeIgniter",
   "main": "index.js",
   "type": "module",
