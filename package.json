@@ -1,5 +1,5 @@
 {
-  "name": "react-hook-form-validation",
+  "name": "react-ci-form-validation",
   "version": "1.0.0",
   "description": "React hook to validate forms inspired in CodeIgniter",
   "main": "index.js",
