@@ -1,18 +1,18 @@
-# react-form-validation
+# react-hook-form-validation
 
 React hook to validate form values inspired in CodeIgniter (PHP framework).
 
 ## Installation
 
 ```bash
-npm i react-form-validation
+npm i react-hook-form-validation
 ```
 
 ## Usage
 
 ```javascript
 import React from "react"
-import {useFormValidation} from "react-form-validation";
+import {useFormValidation} from "react-hook-form-validation";
 
 export default function Home() {
     const {handleForm, hasErrors, showError} = useFormValidation([
