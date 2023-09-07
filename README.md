@@ -5,7 +5,7 @@ React hook to validate form values inspired in CodeIgniter (PHP framework).
 ## Installation
 
 ```bash
-npm i react-ci-form-validation
+npm i @aqpdev/react-form-validation
 ```
 
 ## Usage
