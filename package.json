@@ -15,7 +15,8 @@
     "Validation",
     "valid_email",
     "valid_url",
-    "valid_ip"
+    "valid_ip",
+    "Codeigniter"
   ],
   "author": "AQPDev <fullcoderz@gmail.com>",
   "license": "MIT",

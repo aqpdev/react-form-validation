@@ -1,6 +1,6 @@
 # react-form-validation
 
-React hook to validate form values
+React hook to validate form values inspired in CodeIgniter (PHP framework).
 
 ## Installation
 
