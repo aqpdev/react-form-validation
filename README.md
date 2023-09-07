@@ -12,7 +12,7 @@ npm i @aqpdev/react-form-validation
 
 ```javascript
 import React from "react"
-import {useFormValidation} from "react-hook-form-validation";
+import {useFormValidation} from "@aqpdev/react-form-validation";
 
 export default function Home() {
     const {handleForm, hasErrors, showError} = useFormValidation([
