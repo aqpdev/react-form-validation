@@ -329,8 +329,10 @@ export function useFormValidation(rules)
                 element.id = uniqID(field_name);
             }
             const elementByID = document.getElementById(element.id);
-            elementByID.scrollIntoView({block: "end", behavior: "smooth"})
-            elementByID.focus();
+            if(elementByID !== null){
+                elementByID.scrollIntoView({block: "end", behavior: "smooth"})
+                elementByID.focus();
+            }
             return errorsList[field_name];
         }else{
             return null;
